@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Daniel Notcovich's website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Resume.qmd
+      - about.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniel-notcovich-263513260/
+      - icon: github
+        href: https://github.com/danielnotc/danielnotcovich.github.io
+        
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, Daniel Notcovich"
+
+format:
+  html:
+    theme: superhero
+    mainfont: verdana
+    fontsize: 1 rem
+    fontcolor: "#368BC1"
+    linkcolor: "#D17519"
+
+editor: source
+

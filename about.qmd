@@ -1,0 +1,23 @@
+---
+title: "Gallery"
+image: flaco.png
+format:
+  html:
+    theme: morph
+    mainfont: verdana
+    fontsize: 1.2 rem
+    fontcolor: "#95B9C7"
+    linkcolor: "#D17519"
+---
+
+
+Favorite Photos as of Recent
+
+![Iceland 2021](1.png)
+![Costa Rica 2024](2.png)
+![Santa Cruz Island 2024](3.png)
+![Tokyo 2023](4.png)
+![Graduation 2024](5.png)
+```{r}
+
+```

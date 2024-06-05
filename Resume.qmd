@@ -1,0 +1,69 @@
+---
+title: "Resume"
+about:
+  id: hero-heading
+  template: marquee
+  image: flaco.png
+  image-shape: rounded
+  image-width: 25em
+  links: 
+    - text: Resume
+      icon: file-earmark-text
+      href: Resume.pdf
+format:
+  html:
+    theme: morph
+    mainfont: verdana
+    fontsize: 1.2 rem
+    fontcolor: "#95B9C7"
+    linkcolor: "#D17519"
+
+---
+:::{#hero-heading}
+
+## Education
+
+2020- 2024
+
+University of California Santa Barbara
+
+Bachelor of Science in Environmental Sciences 
+
+Focus on: Biocontrol, Conservation, and Land Management
+
+![UCSB](gaucho.png)
+
+2016-2020 
+Northgate High School
+
+## Professional Experience
+
+# Biocontrol Lab:
+October 2022- March 2024
+
+Research Assistant in the Ecology Department at UCSB, under Professor Tom Dudley, on the Santa Clara River Project. Involved in evaluating the impact of Arundo invasion and exploring biological control methods for invasive plants like tamarisk and Cape ivy. Currently developing a research station to support studies on native and non-native species, emphasizing ecological restoration, biodiversity protection, and agricultural sustainability in the Santa Clara River floodplain ecosystem."
+
+
+# Research Experience: Monteverde Institute:
+October 2023- December 2023
+
+Extensive research on coffee berry borer behaviors at Cafe Monteverde, Finca LIFE, in Costa Rica, identifying a preference for mature red berries over less mature ones. 101 choice experiments across various maturation stages, informing the development of targeted biocontrol methods. The findings contribute to sustainable agricultural practices, reducing reliance on agrochemicals and supporting the health of small-scale coffee farms. This work supports global efforts towards eco-friendly and socially responsible farming.
+
+# Biolog: R&D Intern:
+June - August 2022
+
+Contributed to a biotech startup specializing in microbial identification technology, phenotypic cell profiling, and metabolic fingerprinting for bacterial and mammalian cells. Conducted lab work, including preparation of chemical identifiers, reagent handling, and quality control assays. Collaborated with the R&D team to identify and report bacterial species for a comprehensive 3,000-bacteria database
+danielnotcovich2001@gmail.com
+      
+
+# Biodesy Intern Lab Assistant:
+July- August 2019
+
+Prepared and ran the performance of biochemical assays in a drug discovery startup company. Prepared plates and chemicals and labeled proteins with fluorescent tags. Quality Control and troubleshooting products developed by the company
+
+## Contact Me
+
+Feel free to [download my resume](Resume.pdf) or get in touch with me via [email](mailto:danielnotcovich2001@gmail.com).
+
+:::
+

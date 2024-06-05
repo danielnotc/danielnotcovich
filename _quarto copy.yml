@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Daniel Notcovich's Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: github
+        href: https://github.com/danielnotc/Daniels-website
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, Daniel Notcovich"
+
+format:
+  html:
+    theme: superhero
+    toc: true
+
+editor: source
+

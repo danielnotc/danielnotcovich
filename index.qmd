@@ -1,0 +1,45 @@
+---
+title: "Daniel Notcovich"
+image: danielphoto.png
+fontcolor: "white"
+mainfont: verdana
+about:
+  template: trestles
+  image-shape: round
+  image-width: 25em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:danielnotcovich2001@gmail.com
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/daniel-notcovich-263513260/
+css: |
+  body {
+    margin-left: 20%;
+    margin-right: 50%;
+  }
+---
+
+Hey welcome to my page! 
+
+Here’s a little bit about me…
+
+My name is Daniel Notcovich.
+
+I am currently pursuing a Bachelor of Science in Environmental Sciences at the University of California, Santa Barbara. In my area of study, I’ve developed a passion for biocontrol, conservation, and land management. I am particularly interested in sustainable agricultural practices and ecological restoration, and how these can contribute to biodiversity protection and the health of ecosystems. 
+
+My coursework and research have focused on evaluating the impact of invasive species and developing biological control methods. Through my work at UCSB’s Biocontrol Lab and the Monteverde Institute in Costa Rica, I’ve been able to contribute to sustainable agricultural practices and ecological restoration efforts.
+
+In addition to my academic pursuits, I have gained hands-on experience in microbial identification technology during my internship at a biotech startup, Biolog. I also have experience in customer service and volunteer work, where I’ve developed leadership skills and a commitment to community service.
+
+In my free time, I enjoy hiking, playing soccer, cooking and eating amazing food, and spending quality time with friends and family. I am excited to continue learning and contributing to the field of environmental sciences, with the goal of promoting sustainable and eco-friendly practices in both agricultural and natural ecosystems.
+
+Browse around and get to know me!
+
+```{r}
+
+
+
+
+```

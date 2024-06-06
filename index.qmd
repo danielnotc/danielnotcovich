@@ -1,7 +1,7 @@
 ---
 title: "Daniel Notcovich"
 image: daniel.png
-fontcolor: white
+fontcolor: "white"
 mainfont: verdana
 about:
   template: trestles

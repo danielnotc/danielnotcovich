@@ -27,7 +27,7 @@ format:
     theme: superhero
     mainfont: verdana
     fontsize: 1 rem
-    fontcolor: "#368BC1"
+    fontcolor: "white"
     linkcolor: "#D17519"
 
 editor: source

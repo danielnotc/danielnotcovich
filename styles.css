@@ -1,1 +1,44 @@
 /* css styles */
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+}
+
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar a:hover {
+    color: #ccc;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ccc;
+}
+
+/* Custom styling for navbar icons */
+.navbar .nav-item .nav-link .fa {
+    font-size: 1.5em; /* Adjust the size as needed */
+}

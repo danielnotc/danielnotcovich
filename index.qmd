@@ -1,7 +1,7 @@
 ---
 title: "Daniel Notcovich"
-image: danielphoto.png
-fontcolor: "white"
+image: daniel.png
+fontcolor: white
 mainfont: verdana
 about:
   template: trestles
@@ -14,11 +14,6 @@ about:
     - text: Linkedin
       icon: linkedin
       href: https://www.linkedin.com/in/daniel-notcovich-263513260/
-css: |
-  body {
-    margin-left: 20%;
-    margin-right: 50%;
-  }
 ---
 
 Hey welcome to my page! 

@@ -13,15 +13,15 @@ format:
 
 Favorite Photos as of Recent
 
-![Iceland 2021](3.png)
+(3.png)
 
-![Costa Rica 2024](7.png)
+(7.png)
 
-![Santa Cruz Island 2024](6.png)
+(6.png)
 
-![Tokyo 2023](2.png)
+(2.png)
 
-![Graduation 2024](4.png)
+(4.png)
 
 ```{r}
 
